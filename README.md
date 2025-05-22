@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teslo Shop
 
 **Teslo Shop** es una tienda de ropa inspirada en la experiencia de compra de la tienda oficial de Tesla. Este proyecto simula una plataforma de comercio electrónico donde los usuarios pueden explorar y adquirir productos de moda de alta calidad. La aplicación está diseñada para ofrecer una experiencia de usuario moderna, fluida y minimalista, similar a las interfaces premium de Tesla.
@@ -24,3 +25,6 @@ Visítala en: [Teslo Shop](https://mjb-teslo-shop.vercel.app)
 5. Correr las migraciones de prisma ```npx prisma migrate dev```
 6. Ejecutamos el seed ```npm run seed```
 7. Correr el proyecto ```npm run dev```
+=======
+# teslo-shop
+>>>>>>> 8c202ec5f5c649d81d14324f537c1fe3a63272b1
